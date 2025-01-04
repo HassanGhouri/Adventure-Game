@@ -1,0 +1,29 @@
+ALMONDEAU
+A sweet, sticky substance.
+20
+0
+0
+
+LIQUID
+An odd smelling liquid
+-10
+0
+0
+
+CHOCOLATE
+This chocolate smells vile. I dont think I should eat this.
+-10
+0
+0
+
+CYANIDE
+A painful way out
+-100
+0
+0
+
+MEDKIT
+A medkit
+50
+0
+0

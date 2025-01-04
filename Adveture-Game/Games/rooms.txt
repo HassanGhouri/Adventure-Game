@@ -1,0 +1,284 @@
+1
+Abandoned Mall Entrance
+0
+A glass door stands between you and an abandoned mall. A stale scent fills the air.
+-----
+IN        2
+OUT        18
+LEFT     111
+
+2
+LEVEL 33
+0
+You enter the mall. You look behind and see nothing but a rock wall on the other side of the entrance. You wonder how you passed through the wall of rocks.
+-----
+FORCED        3
+
+3
+Abandoned Mall Divergence
+0
+You see 3 pathways. The left hallway has been reclaimed by foliage but there is an opening small enough to crawl through.
+The hallway ahead leads down to a lit up section of the mall. The rightmost hallway is too dark to see what's ahead.
+You feel uneasy. Strangley enough you hear the noises of wild animals coming from the room behind you.
+-----
+LEFT        4
+STRAIGHT        5
+RIGHT        10
+BEHIND      114
+OUT         1
+
+4
+Foliage Tunnel
+-10
+As you crawl through the small opening in the foliage, thorns cut away at your body.
+-----
+FORCED        7
+
+7
+Tunnel Exit
+0
+You finally see an end to this tunnel of greens. As you walk out, you find an escalator.
+Somehow it still has power. The escalator seems to go down forever. The escalator also goes up to the second floor.
+-----
+UP        8
+DOWN        9
+
+9
+Escalator Down
+-40
+As you step onto the elevator, it speeds up to an uncomfortable pace. There is no end to this descent.
+You are stuck here. The thorny vines cut away at your body. You try your best to get off but the escalator's speed
+stops you from moving. All hope is lost.
+-----
+FORCED        9
+
+8
+Second Floor
+0
+As you enter the second floor cold and humid air permeates the scene.
+You see a store to the right with glowing water pouring from the ceiling.
+Far ahead you see what seems like a food court.
+-----
+STRAIGHT        10
+RIGHT        11
+DOWN        9
+
+11
+Fountain of mysteries
+0
+As you walk into the room, you feel a strange, yet, calming aura. The glowing water that flows from the ceiling in front of you has
+some sort of energy to it. Do you want to walk straight towards the water?
+-----
+STRAIGHT        13
+BACK        8
+
+13
+A Glowing liquid
+45
+You walk towards the glowing water and take a sip. You feel better than usual.
+-----
+BACK        11
+
+10
+Food Court
+0
+You walk into a typical mall food court. There is a crack in the floor that a constant flow of air comes out of. You can go down into it.
+To the left, there is a pitch-black hall. You cannot see anything ahead.
+-----
+DOWN        14
+LEFT        15
+
+14
+Floor Crack
+-10
+As you walk onto the crack, the floor breaks apart from under your feet. You fall into a void.
+-----
+FORCED        16
+
+16
+THE VOID
+-10
+You are now in the void. The air thins as your brain loses oxygen. You start to see the edges of the universe as you suffer
+from intoxicating hypoxia and narcosis. There is nothing you can do. A painless, euphoric end.
+-----
+FORCED        16
+
+15
+Dark Tunnel
+0
+You find yourself walking through a long dark tunnel. You wonder why a tunnel is connected to a mall.
+-----
+FORCED        17
+
+17
+LEVEL 37
+0
+At the end of the tunnel, you find yourself in a room filled with blue and white tiles. The smell of chlorine fills the air.
+Just ahead you see a bright light leading to another room. To the left you see a large pool with steaming water.
+-----
+STRAIGHT        18
+LEFT        19
+
+19
+The Death Tub
+0
+You step into the hot tub. At first, it feels calming, but you find out that your skin is slowly dissolving.
+-----
+FORCED        20
+
+20
+Melting away
+-40
+You try to get out but the "water" paralyzes your muscles. As your skin dissolves, you look at your hands and see nothing but bone.
+Muscles, skin, bone and else everything that makes you dissolve into nothingness. You feel for the last time.
+-----
+FORCED        20
+
+18
+Dark Tunnel
+0
+You find yourself walking through a long dark tunnel. You wonder why a tunnel is connected to a mall.
+-----
+FORCED        100
+
+100
+The exit
+0
+As you walk towards the light, a familiar blue sky and green landscape can be seen.
+As you walk out of the tunnel, you look back to see no tunnel at all.
+You have returned to the world of reality. The backrooms have spared you.
+-----
+FORCED        0
+
+5
+Atrium
+0
+You walk into what seems to be the main section of the mall. To the left there is a giant statue.
+To the right there is closed door.
+-----
+LEFT        21
+RIGHT        22
+
+21
+The Rolling Giant
+-45
+As you walk towards the statue, your body freezes at the sight of The Rolling Giant. None of the muscles in your body responds.
+You are stuck. The Rolling Giant eats away at your mind until its soul consumes yours.
+-----
+FORCED        21
+
+22
+Closed Door
+0
+You walk towards the closed door. This door seems out of place in a mall.
+-----
+FORCED        23
+
+23
+Opened Door
+-10
+The moment you open the door, a force pulls you in with the strength of a black hole.
+-----
+FORCED        24
+
+24
+Suburbia
+0
+You blacked out. When you opened your eyes, you found yourself in an infinitely long suburban landscape. Every house looks identical.
+The road continues ahead. To the right there is a house. To the left there is a house.
+-----
+RIGHT        26
+LEFT        26
+STRAIGHT        25
+
+25
+Suburbia
+0
+You find yourself in an infinitely long suburban landscape. Every house looks identical.
+The road continues ahead. To the right there is a house. To the left there is a house.
+-----
+RIGHT        26
+LEFT        26
+STRAIGHT        25
+
+26
+Generic House
+0
+You are in a house. Everything looks a little too familiar. A stairway leads upstairs and another to the basement.
+Straight ahead there is a kitchen.
+-----
+UP        27
+DOWN        28
+STRAIGHT        29
+OUT        25
+
+27
+Upstairs
+0
+A generic suburban second floor. There is a hole in the floor where an earthy smell emanates from. You can go down into it.
+-----
+BACK        25
+DOWN        30
+
+30
+Falling
+-30
+As you step into the hole, you feel the floor disappear from under your feet. You fall into darkness.
+-----
+FORCED        1
+
+28
+Basement
+-5
+Spores of black mold fill the air. There is nothing here but mold and concrete.
+-----
+BACK          26
+
+111
+Weird Study
+0
+You head to the left of the mall and find an unlokced door, you enter it, and you seem to have found your self in a weird study room.
+There might be something useful here.
+-----
+BACK          1
+IN            112
+
+116
+Golden Temple
+0
+You have discorevered the lost golden temple of lizard, riches far beyond your imagine lie within these walls, congratualations, you have a treasure much large that you came here for.
+-----
+FORCED     0
+
+115
+Cave
+0
+You enter a cavarn, across the cave you can see a bright yellow light but the celling seems to be pouring a corrosive acid, maybe an umbrella might come in handy.
+-----
+BACK       113
+FORWARD    116/UMBRELLA
+
+114
+Stable
+0
+You find your self in a stable with wild animals. There might be something here, its worth the look around.
+-----
+BACK          3
+
+113
+Broken Wall
+0
+A crack in the wall reveals what seems to be a cave, but the enterace is covered in a think layer of vines.
+A ligther might help you get throught.
+-----
+CAVE        115/LIGHTER
+BACK        112
+
+112
+Cluttered Room
+0
+You enter a room filled with nicknacks and trinkets, something here has to be useful. There's a large gaping hole it the
+wall to your right.
+-----
+BACK          100
+RIGHT         113
